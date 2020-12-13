@@ -7,7 +7,7 @@
 
 ### calcalator.cpp
 
-```
+```cpp
 #include "calculator.h"
 
 // Addition function
@@ -28,9 +28,9 @@ int Calculator::Mul (double a, double b)
     return a * b;
 }
 ```
-#### calculator.h
+### calculator.h
 
-```
+```cpp
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
